@@ -1,0 +1,12 @@
+{
+  "airdrop_land": {
+    "replace": true,
+    "subtitle": "subtitles.ammo_supply_box.airdrop_land",
+    "sounds": [
+      {
+        "name": "ammo_supply_box:airdrop_land_replace",
+        "attenuation_distance": 64
+      }
+    ]
+  }
+}

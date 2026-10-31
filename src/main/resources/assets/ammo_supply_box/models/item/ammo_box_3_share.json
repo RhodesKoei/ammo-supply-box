@@ -1,0 +1,8 @@
+{
+  "parent": "ammo_supply_box:block/ammo_box_3_share_4",
+  "overrides": [
+    { "predicate": { "ammo_supply_box:share_uses_1": 1.0 }, "model": "ammo_supply_box:block/ammo_box_3_share_1" },
+    { "predicate": { "ammo_supply_box:share_uses_2": 1.0 }, "model": "ammo_supply_box:block/ammo_box_3_share_2" },
+    { "predicate": { "ammo_supply_box:share_uses_3": 1.0 }, "model": "ammo_supply_box:block/ammo_box_3_share_3" }
+  ]
+}

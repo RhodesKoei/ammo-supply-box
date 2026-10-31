@@ -1,0 +1,34 @@
+{
+  "ammo_box_supply": {
+    "subtitle": "subtitles.ammo_supply_box.ammo_box_supply",
+    "sounds": [
+      {
+        "name": "ammo_supply_box:supply_1"
+      },
+      {
+        "name": "ammo_supply_box:supply_2"
+      },
+      {
+        "name": "ammo_supply_box:supply_3"
+      }
+    ]
+  },
+  "airdrop_beam": {
+    "subtitle": "subtitles.ammo_supply_box.airdrop_beam",
+    "sounds": [
+      {
+        "name": "ammo_supply_box:beam",
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "airdrop_land": {
+    "subtitle": "subtitles.ammo_supply_box.airdrop_land",
+    "sounds": [
+      {
+        "name": "ammo_supply_box:airdrop_land",
+        "attenuation_distance": 64
+      }
+    ]
+  }
+}

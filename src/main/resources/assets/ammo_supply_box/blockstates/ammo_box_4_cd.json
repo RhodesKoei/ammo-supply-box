@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=north,ready=true": { "model": "ammo_supply_box:block/ammo_box_4_cd_ready" },
+    "facing=east,ready=true": { "model": "ammo_supply_box:block/ammo_box_4_cd_ready", "y": 90 },
+    "facing=south,ready=true": { "model": "ammo_supply_box:block/ammo_box_4_cd_ready", "y": 180 },
+    "facing=west,ready=true": { "model": "ammo_supply_box:block/ammo_box_4_cd_ready", "y": 270 },
+    "facing=north,ready=false": { "model": "ammo_supply_box:block/ammo_box_4_cd_refuse" },
+    "facing=east,ready=false": { "model": "ammo_supply_box:block/ammo_box_4_cd_refuse", "y": 90 },
+    "facing=south,ready=false": { "model": "ammo_supply_box:block/ammo_box_4_cd_refuse", "y": 180 },
+    "facing=west,ready=false": { "model": "ammo_supply_box:block/ammo_box_4_cd_refuse", "y": 270 }
+  }
+}

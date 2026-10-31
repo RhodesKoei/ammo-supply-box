@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "conditions": [
+    { "type": "forge:mod_loaded", "modid": "create" }
+  ],
+  "key": {
+    "A": { "item": "create:wrench" },
+    "B": { "item": "create:goggles" },
+    "C": { "item": "create:super_glue" },
+    "D": { "item": "create:hand_crank" },
+    "E": { "item": "create:empty_schematic" },
+    "F": { "item": "create:desk_bell" },
+    "G": { "item": "create:brass_hand" },
+    "H": { "item": "create:blaze_burner" }
+  },
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHG"
+  ],
+  "result": { "item": "ammo_supply_box:upgrade_core" },
+  "show_notification": true
+}

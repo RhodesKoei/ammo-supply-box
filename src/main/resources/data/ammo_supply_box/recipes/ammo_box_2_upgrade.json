@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": { "item": "ammo_supply_box:ammo_box_1" },
+    "X": { "item": "minecraft:copper_ingot" }
+  },
+  "pattern": [
+    " # ",
+    "#X#",
+    " # "
+  ],
+  "result": { "item": "ammo_supply_box:ammo_box_2" },
+  "show_notification": true
+}

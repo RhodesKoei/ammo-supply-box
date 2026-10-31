@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "ammo_supply_box:ammo_box_5_share_cd" },
+    { "item": "ammo_supply_box:upgrade_core" },
+    { "item": "minecraft:phantom_membrane" }
+  ],
+  "result": { "item": "ammo_supply_box:airdrop_beacon_5" },
+  "show_notification": true
+}

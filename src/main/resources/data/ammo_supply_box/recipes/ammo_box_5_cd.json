@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": { "item": "ammo_supply_box:ammo_box_5" },
+    "X": { "item": "ammo_supply_box:upgrade_core" }
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": { "item": "ammo_supply_box:ammo_box_5_cd" },
+  "show_notification": true
+}

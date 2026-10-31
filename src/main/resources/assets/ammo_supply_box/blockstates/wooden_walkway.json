@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "ammo_supply_box:block/wooden_walkway" },
+    "facing=east": { "model": "ammo_supply_box:block/wooden_walkway", "y": 90 },
+    "facing=south": { "model": "ammo_supply_box:block/wooden_walkway", "y": 180 },
+    "facing=west": { "model": "ammo_supply_box:block/wooden_walkway", "y": 270 }
+  }
+}

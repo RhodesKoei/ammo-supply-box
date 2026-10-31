@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "conditions": [
+    { "type": "forge:mod_loaded", "modid": "immersiveengineering" }
+  ],
+  "key": {
+    "1": { "item": "immersiveengineering:windmill" },
+    "2": { "item": "immersiveengineering:electric_lantern" },
+    "3": { "item": "immersiveengineering:fertilizer" },
+    "4": { "item": "immersiveengineering:dynamo" },
+    "5": { "item": "immersiveengineering:cloche" },
+    "6": { "item": "immersiveengineering:crate" },
+    "7": { "item": "immersiveengineering:capacitor_hv" },
+    "8": { "item": "immersiveengineering:gunpowder_barrel" },
+    "9": { "item": "immersiveengineering:redstone_acid_bucket" }
+  },
+  "pattern": [
+    "123",
+    "456",
+    "789"
+  ],
+  "result": { "item": "ammo_supply_box:upgrade_core" },
+  "show_notification": true
+}

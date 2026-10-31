@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "A": { "item": "minecraft:piston" },
+    "B": { "item": "minecraft:observer" },
+    "C": { "item": "minecraft:sticky_piston" },
+    "D": { "item": "minecraft:dispenser" },
+    "E": { "tag": "forge:ingots/netherite" },
+    "F": { "item": "minecraft:dropper" },
+    "G": { "tag": "forge:storage_blocks/iron" },
+    "H": { "tag": "forge:storage_blocks/redstone" }
+  },
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHG"
+  ],
+  "result": { "item": "ammo_supply_box:upgrade_core" },
+  "show_notification": true
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": { "tag": "minecraft:wooden_slabs" }
+  },
+  "pattern": [
+    "##"
+  ],
+  "result": { "item": "ammo_supply_box:wooden_tray", "count": 4 },
+  "show_notification": true
+}

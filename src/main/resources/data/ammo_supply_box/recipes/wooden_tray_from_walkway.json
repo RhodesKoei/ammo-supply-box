@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "ammo_supply_box:wooden_walkway" }
+  ],
+  "result": { "item": "ammo_supply_box:wooden_tray" },
+  "show_notification": true
+}

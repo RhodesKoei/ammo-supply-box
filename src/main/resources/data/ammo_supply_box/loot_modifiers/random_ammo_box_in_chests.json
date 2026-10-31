@@ -1,0 +1,6 @@
+{
+  "type": "ammo_supply_box:random_ammo_box",
+  "conditions": [],
+  "chance": 0.1,
+  "item": "ammo_supply_box:ammo_box_random_1"
+}

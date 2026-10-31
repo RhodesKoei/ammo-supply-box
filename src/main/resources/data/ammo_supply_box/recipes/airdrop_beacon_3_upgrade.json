@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "ammo_supply_box:airdrop_beacon_2" },
+    { "item": "ammo_supply_box:ammo_box_3_share_cd" }
+  ],
+  "result": { "item": "ammo_supply_box:airdrop_beacon_3" },
+  "show_notification": true
+}

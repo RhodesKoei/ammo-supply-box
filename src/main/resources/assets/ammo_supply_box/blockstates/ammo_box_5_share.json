@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north,uses=4": { "model": "ammo_supply_box:block/ammo_box_5_share_4" },
+    "facing=east,uses=4": { "model": "ammo_supply_box:block/ammo_box_5_share_4", "y": 90 },
+    "facing=south,uses=4": { "model": "ammo_supply_box:block/ammo_box_5_share_4", "y": 180 },
+    "facing=west,uses=4": { "model": "ammo_supply_box:block/ammo_box_5_share_4", "y": 270 },
+    "facing=north,uses=3": { "model": "ammo_supply_box:block/ammo_box_5_share_3" },
+    "facing=east,uses=3": { "model": "ammo_supply_box:block/ammo_box_5_share_3", "y": 90 },
+    "facing=south,uses=3": { "model": "ammo_supply_box:block/ammo_box_5_share_3", "y": 180 },
+    "facing=west,uses=3": { "model": "ammo_supply_box:block/ammo_box_5_share_3", "y": 270 },
+    "facing=north,uses=2": { "model": "ammo_supply_box:block/ammo_box_5_share_2" },
+    "facing=east,uses=2": { "model": "ammo_supply_box:block/ammo_box_5_share_2", "y": 90 },
+    "facing=south,uses=2": { "model": "ammo_supply_box:block/ammo_box_5_share_2", "y": 180 },
+    "facing=west,uses=2": { "model": "ammo_supply_box:block/ammo_box_5_share_2", "y": 270 },
+    "facing=north,uses=1": { "model": "ammo_supply_box:block/ammo_box_5_share_1" },
+    "facing=east,uses=1": { "model": "ammo_supply_box:block/ammo_box_5_share_1", "y": 90 },
+    "facing=south,uses=1": { "model": "ammo_supply_box:block/ammo_box_5_share_1", "y": 180 },
+    "facing=west,uses=1": { "model": "ammo_supply_box:block/ammo_box_5_share_1", "y": 270 }
+  }
+}

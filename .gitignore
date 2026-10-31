@@ -1,0 +1,34 @@
+# ==========================================================================
+# 不上传到 GitHub 的目录 / 文件
+# ==========================================================================
+
+# 第三方模组源代码，只作本地阅读参考，不属于本模组
+# （L_Ender's Cataclysm，仅用于研究其屏幕震颤等效果的实现方式）
+extralibs/
+
+# == Gradle / 构建产物 ==
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+out/
+
+# == IDE ==
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.classpath
+.project
+.settings/
+bin/
+
+# == 运行目录（含存档、日志、配置，体积大且与本项目无关）==
+run/
+run-data/
+run-server/
+
+# == 构建/调试时产生的临时文件 ==
+build_check.log
+*.log
+*.hprof
